@@ -31,7 +31,7 @@
 nav {
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    padding: 50px 200px;
 }
 
 .nav-title {
@@ -187,10 +187,11 @@ main {
 
 /* contact styles */
 .contact {
+    margin: 130px;
     display: flex;
     gap: 100px;
     background: #FFF8F3;
-    padding: 130px 200px;
+    /* padding: 130px 200px; */
 }
 
 .section-description {
