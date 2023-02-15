@@ -20,6 +20,22 @@
 
 }
 
+.btn-secondary {
+    color: #FD6E0A;
+    font-weight: 700;
+    font-size: 20px;
+    padding: 18px 23px;
+    border-radius: 5px;
+    background: #FFF8F3;
+    border: 1px solid #FD6E0A;
+    height: 64px;
+}
+
+.btn {
+    display: flex;
+    gap: 30px;
+}
+
 .header {
     background-color: #FFF8F3;
     background-image: url(../images/header_bg.png), url(../images/developer.png);
